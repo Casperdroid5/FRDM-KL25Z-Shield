@@ -1,0 +1,111 @@
+<toc label="MIC2-V SSD1306 Oled driver" topic="index.html">
+  <topic label="Welcome" href="index.html#sec_welcome"/>
+  <topic label="How to regenerate Doxygen documentation" href="index.html#sec_howto"/>
+  <topic label="Files" href="files.html">
+    <topic label="File List" href="files.html">
+      <topic label="inc" href="dir_bfccd401955b95cf8c75461437045ac0.html">
+        <topic label="bitmaps.h" href="bitmaps_8h.html">
+          <topic label="bitmap1" href="bitmaps_8h.html#a42af8d7a8d5c4f939259a5958fe1f854"/>
+          <topic label="bitmap2" href="bitmaps_8h.html#a7c81012af38889cb039351d860229d78"/>
+        </topic>
+        <topic label="fonts.h" href="fonts_8h.html">
+          <topic label="Dialog_plain_12" href="fonts_8h.html#a72a8dddc301cb6df0f304fea0b1fb4f2"/>
+          <topic label="Dialog_plain_6" href="fonts_8h.html#ab954f2589a57cb22a48982000945250b"/>
+          <topic label="Kranky_Regular_20" href="fonts_8h.html#a075ba90d46277f324dd663d2876eb96c"/>
+          <topic label="Monospaced_plain_10" href="fonts_8h.html#a1e54f24ab97f656f4175cad158577a7e"/>
+        </topic>
+        <topic label="i2c.h" href="i2c_8h.html">
+          <topic label="I2C_TIMEOUT" href="i2c_8h.html#afa3215f0aa766367f5d34bee80929152"/>
+          <topic label="i2c_init" href="i2c_8h.html#a5730d9445429351b9f750084c5cb5aae"/>
+          <topic label="i2c_write_cmd" href="i2c_8h.html#af926b2e3ab66d9a395c37b99d8c392d0"/>
+          <topic label="i2c_write_data" href="i2c_8h.html#a9a2db923ce176f7c6f97c265d41a3805"/>
+        </topic>
+        <topic label="ssd1306.h" href="ssd1306_8h.html">
+          <topic label="SSD1306_HEIGHT" href="ssd1306_8h.html#a4e9409448a0df95c1686670e09b457b7"/>
+          <topic label="SSD1306_SA0" href="ssd1306_8h.html#a4b02609b2965877acf5c990faaef8c96"/>
+          <topic label="SSD1306_SIZE" href="ssd1306_8h.html#a2294ff5122e3855b073d71d2fd5b722a"/>
+          <topic label="SSD1306_SLAVE_ADDRESS" href="ssd1306_8h.html#a6b6de8a95377240ac2b26b7dc2db89af"/>
+          <topic label="SSD1306_WIDTH" href="ssd1306_8h.html#ae5a2aa8865dd03537b97fd1c9037371b"/>
+          <topic label="pixel_value_t" href="ssd1306_8h.html#ac7da307bf8e114432ed8c113eee2186a">
+            <topic label="ON" href="ssd1306_8h.html#ac7da307bf8e114432ed8c113eee2186aa977d478dacaae531f95695750d1e9d03"/>
+            <topic label="OFF" href="ssd1306_8h.html#ac7da307bf8e114432ed8c113eee2186aaac132f2982b98bcaa3445e535a03ff75"/>
+          </topic>
+          <topic label="ssd1306_clearscreen" href="ssd1306_8h.html#ad7261ce21e9355e191b2e62f185a6f09"/>
+          <topic label="ssd1306_command" href="ssd1306_8h.html#ae5039864f0d227ef03d0eb0def634a10"/>
+          <topic label="ssd1306_data" href="ssd1306_8h.html#a91bbbefd7b3419acdd7a28b9ab65abb7"/>
+          <topic label="ssd1306_drawbitmap" href="ssd1306_8h.html#a3c9e37488fd86014b67fa17d1991ab9f"/>
+          <topic label="ssd1306_drawline" href="ssd1306_8h.html#a375268e961fb62b7e5a5a9471838437a"/>
+          <topic label="ssd1306_goto" href="ssd1306_8h.html#aecb79fc62feee471972e3776d84779f9"/>
+          <topic label="ssd1306_init" href="ssd1306_8h.html#a8c501b9eb4c6efb3f7d387a8d5390058"/>
+          <topic label="ssd1306_putchar" href="ssd1306_8h.html#ad134bb8c32c71a160ed63edd270bac48"/>
+          <topic label="ssd1306_putstring" href="ssd1306_8h.html#accd1ab0be60b3b934493343e311cf29f"/>
+          <topic label="ssd1306_setcontrast" href="ssd1306_8h.html#a1b86eb563b0eeebee7a49f4545cb9569"/>
+          <topic label="ssd1306_setfont" href="ssd1306_8h.html#a620efeac23e4c91dff422b1ca096523d"/>
+          <topic label="ssd1306_setinverse" href="ssd1306_8h.html#a89a22c3de1c951b0d7ff28134630df13"/>
+          <topic label="ssd1306_setorientation" href="ssd1306_8h.html#a8682e5ddd7fe31c3fe7da35687c820d4"/>
+          <topic label="ssd1306_setpixel" href="ssd1306_8h.html#a1015cbd9e78de58a5107360dfdf938fc"/>
+          <topic label="ssd1306_terminal" href="ssd1306_8h.html#a0ac902a73124934a56be2f65a1a9f652"/>
+          <topic label="ssd1306_update" href="ssd1306_8h.html#a51fe493e13a0ea3d95aaaac3cf88fba1"/>
+          <topic label="ssd1306_framebuffer" href="ssd1306_8h.html#a40680748635cb6db965036b50fbfbad4"/>
+        </topic>
+      </topic>
+      <topic label="src" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">
+        <topic label="bitmaps.c" href="bitmaps_8c.html">
+          <topic label="BITMAPS_H_" href="bitmaps_8c.html#a8f9222b4344758904f23867d6d6a5627"/>
+          <topic label="bitmap1" href="bitmaps_8c.html#a42af8d7a8d5c4f939259a5958fe1f854"/>
+          <topic label="bitmap2" href="bitmaps_8c.html#a7c81012af38889cb039351d860229d78"/>
+        </topic>
+        <topic label="fonts.c" href="fonts_8c.html">
+          <topic label="Dialog_plain_12" href="fonts_8c.html#a72a8dddc301cb6df0f304fea0b1fb4f2"/>
+          <topic label="Dialog_plain_6" href="fonts_8c.html#ab954f2589a57cb22a48982000945250b"/>
+          <topic label="Kranky_Regular_20" href="fonts_8c.html#a075ba90d46277f324dd663d2876eb96c"/>
+          <topic label="Monospaced_plain_10" href="fonts_8c.html#a1e54f24ab97f656f4175cad158577a7e"/>
+        </topic>
+        <topic label="i2c.c" href="i2c_8c.html">
+          <topic label="i2c_init" href="i2c_8c.html#a5730d9445429351b9f750084c5cb5aae"/>
+          <topic label="i2c_write_cmd" href="i2c_8c.html#af926b2e3ab66d9a395c37b99d8c392d0"/>
+          <topic label="i2c_write_data" href="i2c_8c.html#a9a2db923ce176f7c6f97c265d41a3805"/>
+        </topic>
+        <topic label="main.c" href="main_8c.html">
+          <topic label="BLUE_LED_POS" href="main_8c.html#a88bd8b1ce31c613556b224b0afea61f7"/>
+          <topic label="GREEN_LED_POS" href="main_8c.html#aeae4b9a8aced41583058d37e4775328a"/>
+          <topic label="MASK" href="main_8c.html#a92f8f972a2c188371fcf0b561c44af97"/>
+          <topic label="RED_LED_POS" href="main_8c.html#a2a76c20ecc71c83246abe6cef9284428"/>
+          <topic label="Delay_us" href="main_8c.html#ad45521ba61a36db4fafbb1b7607911ab"/>
+          <topic label="main" href="main_8c.html#a840291bc02cba5474a4cb46a9b9566fe"/>
+        </topic>
+        <topic label="ssd1306.c" href="ssd1306_8c.html">
+          <topic label="ssd1306_clearscreen" href="ssd1306_8c.html#ad7261ce21e9355e191b2e62f185a6f09"/>
+          <topic label="ssd1306_command" href="ssd1306_8c.html#ae5039864f0d227ef03d0eb0def634a10"/>
+          <topic label="ssd1306_data" href="ssd1306_8c.html#a91bbbefd7b3419acdd7a28b9ab65abb7"/>
+          <topic label="ssd1306_drawbitmap" href="ssd1306_8c.html#a3c9e37488fd86014b67fa17d1991ab9f"/>
+          <topic label="ssd1306_drawline" href="ssd1306_8c.html#a375268e961fb62b7e5a5a9471838437a"/>
+          <topic label="ssd1306_goto" href="ssd1306_8c.html#aecb79fc62feee471972e3776d84779f9"/>
+          <topic label="ssd1306_init" href="ssd1306_8c.html#a8c501b9eb4c6efb3f7d387a8d5390058"/>
+          <topic label="ssd1306_putchar" href="ssd1306_8c.html#ad134bb8c32c71a160ed63edd270bac48"/>
+          <topic label="ssd1306_putstring" href="ssd1306_8c.html#accd1ab0be60b3b934493343e311cf29f"/>
+          <topic label="ssd1306_setcontrast" href="ssd1306_8c.html#a1b86eb563b0eeebee7a49f4545cb9569"/>
+          <topic label="ssd1306_setfont" href="ssd1306_8c.html#a620efeac23e4c91dff422b1ca096523d"/>
+          <topic label="ssd1306_setinverse" href="ssd1306_8c.html#a89a22c3de1c951b0d7ff28134630df13"/>
+          <topic label="ssd1306_setorientation" href="ssd1306_8c.html#a8682e5ddd7fe31c3fe7da35687c820d4"/>
+          <topic label="ssd1306_setpixel" href="ssd1306_8c.html#a1015cbd9e78de58a5107360dfdf938fc"/>
+          <topic label="ssd1306_terminal" href="ssd1306_8c.html#a0ac902a73124934a56be2f65a1a9f652"/>
+          <topic label="ssd1306_update" href="ssd1306_8c.html#a51fe493e13a0ea3d95aaaac3cf88fba1"/>
+          <topic label="font" href="ssd1306_8c.html#ad41674a1cf26ce09ed78be29f12ea121"/>
+          <topic label="ssd1306_framebuffer" href="ssd1306_8c.html#a40680748635cb6db965036b50fbfbad4"/>
+          <topic label="ssd1306_init_commands" href="ssd1306_8c.html#a25ca25c4a982bf37211e8db58d55bdb6"/>
+          <topic label="x" href="ssd1306_8c.html#a0f561e77fa0f040b637f4e04f6cd8078"/>
+          <topic label="y" href="ssd1306_8c.html#a17f97f62d93bc8cfb4a2b5d273a2aa72"/>
+        </topic>
+      </topic>
+    </topic>
+    <topic label="Globals" href="globals.html">
+      <topic label="All" href="globals.html"/>
+      <topic label="Functions" href="globals_func.html"/>
+      <topic label="Variables" href="globals_vars.html"/>
+      <topic label="Enumerations" href="globals_enum.html"/>
+      <topic label="Enumerator" href="globals_eval.html"/>
+      <topic label="Macros" href="globals_defs.html"/>
+    </topic>
+  </topic>
+</toc>

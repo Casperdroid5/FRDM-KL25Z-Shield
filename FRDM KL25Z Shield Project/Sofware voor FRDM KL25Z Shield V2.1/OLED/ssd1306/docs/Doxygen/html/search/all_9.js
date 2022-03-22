@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['ssd1306_2ec_22',['ssd1306.c',['../ssd1306_8c.html',1,'']]],
+  ['ssd1306_2eh_23',['ssd1306.h',['../ssd1306_8h.html',1,'']]],
+  ['ssd1306_5fclearscreen_24',['ssd1306_clearscreen',['../ssd1306_8h.html#ad7261ce21e9355e191b2e62f185a6f09',1,'ssd1306_clearscreen(void):&#160;ssd1306.c'],['../ssd1306_8c.html#ad7261ce21e9355e191b2e62f185a6f09',1,'ssd1306_clearscreen(void):&#160;ssd1306.c']]],
+  ['ssd1306_5fcommand_25',['ssd1306_command',['../ssd1306_8h.html#ae5039864f0d227ef03d0eb0def634a10',1,'ssd1306_command(const uint8_t cmd):&#160;ssd1306.c'],['../ssd1306_8c.html#ae5039864f0d227ef03d0eb0def634a10',1,'ssd1306_command(const uint8_t cmd):&#160;ssd1306.c']]],
+  ['ssd1306_5fdata_26',['ssd1306_data',['../ssd1306_8h.html#a91bbbefd7b3419acdd7a28b9ab65abb7',1,'ssd1306_data(const uint8_t data):&#160;ssd1306.c'],['../ssd1306_8c.html#a91bbbefd7b3419acdd7a28b9ab65abb7',1,'ssd1306_data(const uint8_t data):&#160;ssd1306.c']]],
+  ['ssd1306_5fdrawbitmap_27',['ssd1306_drawbitmap',['../ssd1306_8h.html#a3c9e37488fd86014b67fa17d1991ab9f',1,'ssd1306_drawbitmap(const unsigned char *bitmap):&#160;ssd1306.c'],['../ssd1306_8c.html#a3c9e37488fd86014b67fa17d1991ab9f',1,'ssd1306_drawbitmap(const unsigned char *bitmap):&#160;ssd1306.c']]],
+  ['ssd1306_5fdrawline_28',['ssd1306_drawline',['../ssd1306_8h.html#a375268e961fb62b7e5a5a9471838437a',1,'ssd1306_drawline(uint8_t x0, uint8_t y0, uint8_t x1, uint8_t y1):&#160;ssd1306.c'],['../ssd1306_8c.html#a375268e961fb62b7e5a5a9471838437a',1,'ssd1306_drawline(uint8_t x0, uint8_t y0, uint8_t x1, uint8_t y1):&#160;ssd1306.c']]],
+  ['ssd1306_5fframebuffer_29',['ssd1306_framebuffer',['../ssd1306_8h.html#a40680748635cb6db965036b50fbfbad4',1,'ssd1306_framebuffer():&#160;ssd1306.c'],['../ssd1306_8c.html#a40680748635cb6db965036b50fbfbad4',1,'ssd1306_framebuffer():&#160;ssd1306.c']]],
+  ['ssd1306_5fgoto_30',['ssd1306_goto',['../ssd1306_8h.html#aecb79fc62feee471972e3776d84779f9',1,'ssd1306_goto(const uint8_t new_x, const uint8_t new_y):&#160;ssd1306.c'],['../ssd1306_8c.html#aecb79fc62feee471972e3776d84779f9',1,'ssd1306_goto(const uint8_t new_x, const uint8_t new_y):&#160;ssd1306.c']]],
+  ['ssd1306_5fheight_31',['SSD1306_HEIGHT',['../ssd1306_8h.html#a4e9409448a0df95c1686670e09b457b7',1,'ssd1306.h']]],
+  ['ssd1306_5finit_32',['ssd1306_init',['../ssd1306_8h.html#a8c501b9eb4c6efb3f7d387a8d5390058',1,'ssd1306_init(void):&#160;ssd1306.c'],['../ssd1306_8c.html#a8c501b9eb4c6efb3f7d387a8d5390058',1,'ssd1306_init(void):&#160;ssd1306.c']]],
+  ['ssd1306_5finit_5fcommands_33',['ssd1306_init_commands',['../ssd1306_8c.html#a25ca25c4a982bf37211e8db58d55bdb6',1,'ssd1306.c']]],
+  ['ssd1306_5fputchar_34',['ssd1306_putchar',['../ssd1306_8h.html#ad134bb8c32c71a160ed63edd270bac48',1,'ssd1306_putchar(const char c):&#160;ssd1306.c'],['../ssd1306_8c.html#ad134bb8c32c71a160ed63edd270bac48',1,'ssd1306_putchar(const char c):&#160;ssd1306.c']]],
+  ['ssd1306_5fputstring_35',['ssd1306_putstring',['../ssd1306_8h.html#accd1ab0be60b3b934493343e311cf29f',1,'ssd1306_putstring(const uint8_t xs, const uint8_t ys, const char *str):&#160;ssd1306.c'],['../ssd1306_8c.html#accd1ab0be60b3b934493343e311cf29f',1,'ssd1306_putstring(const uint8_t xs, const uint8_t ys, const char *str):&#160;ssd1306.c']]],
+  ['ssd1306_5fsa0_36',['SSD1306_SA0',['../ssd1306_8h.html#a4b02609b2965877acf5c990faaef8c96',1,'ssd1306.h']]],
+  ['ssd1306_5fsetcontrast_37',['ssd1306_setcontrast',['../ssd1306_8h.html#a1b86eb563b0eeebee7a49f4545cb9569',1,'ssd1306_setcontrast(const uint8_t contrast):&#160;ssd1306.c'],['../ssd1306_8c.html#a1b86eb563b0eeebee7a49f4545cb9569',1,'ssd1306_setcontrast(const uint8_t contrast):&#160;ssd1306.c']]],
+  ['ssd1306_5fsetfont_38',['ssd1306_setfont',['../ssd1306_8h.html#a620efeac23e4c91dff422b1ca096523d',1,'ssd1306_setfont(const char *f):&#160;ssd1306.c'],['../ssd1306_8c.html#a620efeac23e4c91dff422b1ca096523d',1,'ssd1306_setfont(const char *f):&#160;ssd1306.c']]],
+  ['ssd1306_5fsetinverse_39',['ssd1306_setinverse',['../ssd1306_8h.html#a89a22c3de1c951b0d7ff28134630df13',1,'ssd1306_setinverse(const uint8_t inv):&#160;ssd1306.c'],['../ssd1306_8c.html#a89a22c3de1c951b0d7ff28134630df13',1,'ssd1306_setinverse(const uint8_t inv):&#160;ssd1306.c']]],
+  ['ssd1306_5fsetorientation_40',['ssd1306_setorientation',['../ssd1306_8h.html#a8682e5ddd7fe31c3fe7da35687c820d4',1,'ssd1306_setorientation(const uint8_t orientation):&#160;ssd1306.c'],['../ssd1306_8c.html#a8682e5ddd7fe31c3fe7da35687c820d4',1,'ssd1306_setorientation(const uint8_t orientation):&#160;ssd1306.c']]],
+  ['ssd1306_5fsetpixel_41',['ssd1306_setpixel',['../ssd1306_8h.html#a1015cbd9e78de58a5107360dfdf938fc',1,'ssd1306_setpixel(const uint8_t x, const uint8_t y, const pixel_value_t val):&#160;ssd1306.c'],['../ssd1306_8c.html#a1015cbd9e78de58a5107360dfdf938fc',1,'ssd1306_setpixel(const uint8_t x, const uint8_t y, const pixel_value_t val):&#160;ssd1306.c']]],
+  ['ssd1306_5fsize_42',['SSD1306_SIZE',['../ssd1306_8h.html#a2294ff5122e3855b073d71d2fd5b722a',1,'ssd1306.h']]],
+  ['ssd1306_5fslave_5faddress_43',['SSD1306_SLAVE_ADDRESS',['../ssd1306_8h.html#a6b6de8a95377240ac2b26b7dc2db89af',1,'ssd1306.h']]],
+  ['ssd1306_5fterminal_44',['ssd1306_terminal',['../ssd1306_8h.html#a0ac902a73124934a56be2f65a1a9f652',1,'ssd1306_terminal(const char *str):&#160;ssd1306.c'],['../ssd1306_8c.html#a0ac902a73124934a56be2f65a1a9f652',1,'ssd1306_terminal(const char *str):&#160;ssd1306.c']]],
+  ['ssd1306_5fupdate_45',['ssd1306_update',['../ssd1306_8h.html#a51fe493e13a0ea3d95aaaac3cf88fba1',1,'ssd1306_update(void):&#160;ssd1306.c'],['../ssd1306_8c.html#a51fe493e13a0ea3d95aaaac3cf88fba1',1,'ssd1306_update(void):&#160;ssd1306.c']]],
+  ['ssd1306_5fwidth_46',['SSD1306_WIDTH',['../ssd1306_8h.html#ae5a2aa8865dd03537b97fd1c9037371b',1,'ssd1306.h']]]
+];

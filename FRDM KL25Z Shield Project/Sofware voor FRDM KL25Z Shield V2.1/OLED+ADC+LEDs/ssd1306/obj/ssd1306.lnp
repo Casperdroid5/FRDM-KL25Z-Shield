@@ -1,0 +1,12 @@
+--cpu Cortex-M0+
+".\obj\i2c.o"
+".\obj\main.o"
+".\obj\ssd1306.o"
+".\obj\bitmaps.o"
+".\obj\fonts.o"
+".\obj\startup_mkl25z4.o"
+".\obj\system_mkl25z4.o"
+--library_type=microlib --strict --scatter ".\obj\ssd1306.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\obj\ssd1306.map" -o .\obj\ssd1306.axf

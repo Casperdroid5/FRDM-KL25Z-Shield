@@ -1,0 +1,64 @@
+Dependencies for Project 'BasicUI', Target 'KL25Z Flash': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\src\LCD_4bit.c)(0x60DA0C18)(--c99 -c --cpu Cortex-M0+ -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork -I include-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_KL25Z_Flash-IC:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\crtak\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-D__UVISION_VERSION="533" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_ -DCLOCK_SETUP="1"-o .\obj\lcd_4bit.o --omf_browse .\obj\lcd_4bit.crf --depend .\obj\lcd_4bit.d)
+I (include\lcd_4bit.h)(0x60F825C6)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.H)(0x585BDE7A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E9122)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h)(0x5E8F3392)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F3392)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E836932)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F3392)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x56447F0A)
+F (.\src\main.c)(0x60F82957)(--c99 -c --cpu Cortex-M0+ -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork -I include-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_KL25Z_Flash-IC:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\crtak\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-D__UVISION_VERSION="533" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_ -DCLOCK_SETUP="1"-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.H)(0x585BDE7A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E9122)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h)(0x5E8F3392)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F3392)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E836932)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F3392)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x56447F0A)
+I (include\gpio_defs.h)(0x51A5B950)
+I (include\LCD_4bit.h)(0x60F825C6)
+I (include\LEDs.h)(0x51A5B950)
+I (include\switches.h)(0x5E20C442)
+F (.\src\switches.c)(0x5E20C7CA)(--c99 -c --cpu Cortex-M0+ -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork -I include-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_KL25Z_Flash-IC:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\crtak\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-D__UVISION_VERSION="533" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_ -DCLOCK_SETUP="1"-o .\obj\switches.o --omf_browse .\obj\switches.crf --depend .\obj\switches.d)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.H)(0x585BDE7A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E9122)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h)(0x5E8F3392)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F3392)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E836932)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F3392)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x56447F0A)
+I (include\switches.h)(0x5E20C442)
+I (include\gpio_defs.h)(0x51A5B950)
+F (.\src\LEDs.c)(0x51A5B920)(--c99 -c --cpu Cortex-M0+ -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork -I include-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_KL25Z_Flash-IC:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\crtak\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-D__UVISION_VERSION="533" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_ -DCLOCK_SETUP="1"-o .\obj\leds.o --omf_browse .\obj\leds.crf --depend .\obj\leds.d)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.H)(0x585BDE7A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E9122)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h)(0x5E8F3392)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F3392)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E836932)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F3392)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x56447F0A)
+I (include\LEDs.h)(0x51A5B950)
+I (include\gpio_defs.h)(0x51A5B950)
+F (.\src\delay.c)(0x5E0DF61E)(--c99 -c --cpu Cortex-M0+ -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork -I include-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_KL25Z_Flash-IC:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\crtak\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-D__UVISION_VERSION="533" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_ -DCLOCK_SETUP="1"-o .\obj\delay.o --omf_browse .\obj\delay.crf --depend .\obj\delay.d)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.H)(0x585BDE7A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E9122)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h)(0x5E8F3392)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F3392)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E836932)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F3392)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x56447F0A)
+F (.\include\gpio_defs.h)(0x51A5B950)()
+F (.\include\LCD_4bit.h)(0x60F825C6)()
+F (.\include\switches.h)(0x5E20C442)()
+F (RTE\Device\MKL25Z128xxx4\startup_MKL25Z4.s)(0x56447F0A)(--cpu Cortex-M0+ --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_KL25Z_Flash-IC:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\crtak\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include--pd "__UVISION_VERSION SETA 533" --pd "_RTE_ SETA 1" --pd "MKL25Z128xxx4 SETA 1" --pd "_RTE_ SETA 1"-o .\obj\startup_mkl25z4.o --depend .\obj\startup_mkl25z4.d)
+F (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.c)(0x56447F0A)(--c99 -c --cpu Cortex-M0+ -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork -I include-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_KL25Z_Flash-IC:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\crtak\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-D__UVISION_VERSION="533" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_ -DCLOCK_SETUP="1"-o .\obj\system_mkl25z4.o --omf_browse .\obj\system_mkl25z4.crf --depend .\obj\system_mkl25z4.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E9122)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.h)(0x585BDE7A)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h)(0x5E8F3392)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F3392)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E836932)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F3392)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x56447F0A)
+F (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x56447F0A)()

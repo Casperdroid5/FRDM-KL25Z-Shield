@@ -1,0 +1,51 @@
+Dependencies for Project 'ssd1306', Target 'SSD1306-I2C': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\inc\i2c.h)(0x60DD7B28)()
+F (.\inc\ssd1306.h)(0x60DD7B28)()
+F (.\inc\bitmaps.h)(0x60DD7B28)()
+F (.\inc\fonts.h)(0x60DD7B28)()
+F (.\src\i2c.c)(0x60DD7B28)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections --signed_chars -I ./inc-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_SSD1306-I2C-IC:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\crtak\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-D__UVISION_VERSION="533" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_ -DCLOCK_SETUP="1"-o .\obj\i2c.o --omf_browse .\obj\i2c.crf --depend .\obj\i2c.d)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.H)(0x585BDE7A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E9122)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h)(0x5E8F3392)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F3392)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E836932)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F3392)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x56447F0A)
+I (./inc/i2c.h)(0x60DD7B28)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5E8E9122)
+F (.\src\main.c)(0x60F81FFD)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections --signed_chars -I ./inc-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_SSD1306-I2C-IC:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\crtak\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-D__UVISION_VERSION="533" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_ -DCLOCK_SETUP="1"-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.H)(0x585BDE7A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E9122)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h)(0x5E8F3392)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F3392)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E836932)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F3392)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x56447F0A)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x5E8E9122)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E9122)
+I (./inc/ssd1306.h)(0x60DD7B28)
+I (./inc/i2c.h)(0x60DD7B28)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5E8E9122)
+I (./inc/fonts.h)(0x60DD7B28)
+I (./inc/bitmaps.h)(0x60DD7B28)
+F (.\src\ssd1306.c)(0x60DD7B28)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections --signed_chars -I ./inc-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_SSD1306-I2C-IC:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\crtak\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-D__UVISION_VERSION="533" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_ -DCLOCK_SETUP="1"-o .\obj\ssd1306.o --omf_browse .\obj\ssd1306.crf --depend .\obj\ssd1306.d)
+I (./inc/ssd1306.h)(0x60DD7B28)
+I (./inc/i2c.h)(0x60DD7B28)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E9122)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5E8E9122)
+I (./inc/fonts.h)(0x60DD7B28)
+I (./inc/bitmaps.h)(0x60DD7B28)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E9122)
+F (.\src\bitmaps.c)(0x60DD7B28)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections --signed_chars -I ./inc-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_SSD1306-I2C-IC:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\crtak\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-D__UVISION_VERSION="533" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_ -DCLOCK_SETUP="1"-o .\obj\bitmaps.o --omf_browse .\obj\bitmaps.crf --depend .\obj\bitmaps.d)
+F (.\src\fonts.c)(0x60DD7B28)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections --signed_chars -I ./inc-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_SSD1306-I2C-IC:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\crtak\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-D__UVISION_VERSION="533" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_ -DCLOCK_SETUP="1"-o .\obj\fonts.o --omf_browse .\obj\fonts.crf --depend .\obj\fonts.d)
+F (RTE\Device\MKL25Z128xxx4\startup_MKL25Z4.s)(0x56447F0A)(--cpu Cortex-M0+ --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_SSD1306-I2C-IC:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\crtak\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include--pd "__UVISION_VERSION SETA 533" --pd "_RTE_ SETA 1" --pd "MKL25Z128xxx4 SETA 1" --pd "_RTE_ SETA 1"--list .\obj\startup_mkl25z4.lst --xref -o .\obj\startup_mkl25z4.o --depend .\obj\startup_mkl25z4.d)
+F (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.c)(0x56447F0A)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections --signed_chars -I ./inc-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_SSD1306-I2C-IC:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\crtak\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-D__UVISION_VERSION="533" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_ -DCLOCK_SETUP="1"-o .\obj\system_mkl25z4.o --omf_browse .\obj\system_mkl25z4.crf --depend .\obj\system_mkl25z4.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E9122)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.h)(0x585BDE7A)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h)(0x5E8F3392)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F3392)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E836932)
+I (C:\Users\crtak\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F3392)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x56447F0A)
+F (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x56447F0A)()
